@@ -1,0 +1,15 @@
+C:\Users\lihem\OneDrive - ODISEE\Documents\School-2526\IIP-2526\IIP-IliasLihemdi-2526\IIP1.01.Basis\OefeningenTijdensDeLes\Oefening1\obj\Debug\net8.0\ConsoleHalloWereld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lihem\OneDrive - ODISEE\Documents\School-2526\IIP-2526\IIP-IliasLihemdi-2526\IIP1.01.Basis\OefeningenTijdensDeLes\Oefening1\obj\Debug\net8.0\ConsoleHalloWereld.AssemblyInfoInputs.cache
+C:\Users\lihem\OneDrive - ODISEE\Documents\School-2526\IIP-2526\IIP-IliasLihemdi-2526\IIP1.01.Basis\OefeningenTijdensDeLes\Oefening1\obj\Debug\net8.0\ConsoleHalloWereld.AssemblyInfo.cs
+C:\Users\lihem\OneDrive - ODISEE\Documents\School-2526\IIP-2526\IIP-IliasLihemdi-2526\IIP1.01.Basis\OefeningenTijdensDeLes\Oefening1\obj\Debug\net8.0\ConsoleHalloWereld.csproj.CoreCompileInputs.cache
+C:\Users\lihem\OneDrive - ODISEE\Documents\School-2526\IIP-2526\IIP-IliasLihemdi-2526\IIP1.01.Basis\OefeningenTijdensDeLes\Oefening1\obj\Debug\net8.0\ConsoleHalloWereld.sourcelink.json
+C:\Users\lihem\OneDrive - ODISEE\Documents\School-2526\IIP-2526\IIP-IliasLihemdi-2526\IIP1.01.Basis\OefeningenTijdensDeLes\Oefening1\bin\Debug\net8.0\ConsoleHalloWereld.exe
+C:\Users\lihem\OneDrive - ODISEE\Documents\School-2526\IIP-2526\IIP-IliasLihemdi-2526\IIP1.01.Basis\OefeningenTijdensDeLes\Oefening1\bin\Debug\net8.0\ConsoleHalloWereld.deps.json
+C:\Users\lihem\OneDrive - ODISEE\Documents\School-2526\IIP-2526\IIP-IliasLihemdi-2526\IIP1.01.Basis\OefeningenTijdensDeLes\Oefening1\bin\Debug\net8.0\ConsoleHalloWereld.runtimeconfig.json
+C:\Users\lihem\OneDrive - ODISEE\Documents\School-2526\IIP-2526\IIP-IliasLihemdi-2526\IIP1.01.Basis\OefeningenTijdensDeLes\Oefening1\bin\Debug\net8.0\ConsoleHalloWereld.dll
+C:\Users\lihem\OneDrive - ODISEE\Documents\School-2526\IIP-2526\IIP-IliasLihemdi-2526\IIP1.01.Basis\OefeningenTijdensDeLes\Oefening1\bin\Debug\net8.0\ConsoleHalloWereld.pdb
+C:\Users\lihem\OneDrive - ODISEE\Documents\School-2526\IIP-2526\IIP-IliasLihemdi-2526\IIP1.01.Basis\OefeningenTijdensDeLes\Oefening1\obj\Debug\net8.0\ConsoleHalloWereld.dll
+C:\Users\lihem\OneDrive - ODISEE\Documents\School-2526\IIP-2526\IIP-IliasLihemdi-2526\IIP1.01.Basis\OefeningenTijdensDeLes\Oefening1\obj\Debug\net8.0\refint\ConsoleHalloWereld.dll
+C:\Users\lihem\OneDrive - ODISEE\Documents\School-2526\IIP-2526\IIP-IliasLihemdi-2526\IIP1.01.Basis\OefeningenTijdensDeLes\Oefening1\obj\Debug\net8.0\ConsoleHalloWereld.pdb
+C:\Users\lihem\OneDrive - ODISEE\Documents\School-2526\IIP-2526\IIP-IliasLihemdi-2526\IIP1.01.Basis\OefeningenTijdensDeLes\Oefening1\obj\Debug\net8.0\ConsoleHalloWereld.genruntimeconfig.cache
+C:\Users\lihem\OneDrive - ODISEE\Documents\School-2526\IIP-2526\IIP-IliasLihemdi-2526\IIP1.01.Basis\OefeningenTijdensDeLes\Oefening1\obj\Debug\net8.0\ref\ConsoleHalloWereld.dll

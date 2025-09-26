@@ -1,0 +1,15 @@
+C:\Users\lihem\OneDrive - ODISEE\Documents\School-2526\IIP-2526\IIP-IliasLihemdi-2526\IIP1.01.Basis\ConsoleHalloWereld\obj\Debug\net8.0\HalloWereld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lihem\OneDrive - ODISEE\Documents\School-2526\IIP-2526\IIP-IliasLihemdi-2526\IIP1.01.Basis\ConsoleHalloWereld\obj\Debug\net8.0\HalloWereld.AssemblyInfoInputs.cache
+C:\Users\lihem\OneDrive - ODISEE\Documents\School-2526\IIP-2526\IIP-IliasLihemdi-2526\IIP1.01.Basis\ConsoleHalloWereld\obj\Debug\net8.0\HalloWereld.AssemblyInfo.cs
+C:\Users\lihem\OneDrive - ODISEE\Documents\School-2526\IIP-2526\IIP-IliasLihemdi-2526\IIP1.01.Basis\ConsoleHalloWereld\obj\Debug\net8.0\HalloWereld.csproj.CoreCompileInputs.cache
+C:\Users\lihem\OneDrive - ODISEE\Documents\School-2526\IIP-2526\IIP-IliasLihemdi-2526\IIP1.01.Basis\ConsoleHalloWereld\obj\Debug\net8.0\HalloWereld.sourcelink.json
+C:\Users\lihem\OneDrive - ODISEE\Documents\School-2526\IIP-2526\IIP-IliasLihemdi-2526\IIP1.01.Basis\ConsoleHalloWereld\bin\Debug\net8.0\HalloWereld.exe
+C:\Users\lihem\OneDrive - ODISEE\Documents\School-2526\IIP-2526\IIP-IliasLihemdi-2526\IIP1.01.Basis\ConsoleHalloWereld\bin\Debug\net8.0\HalloWereld.deps.json
+C:\Users\lihem\OneDrive - ODISEE\Documents\School-2526\IIP-2526\IIP-IliasLihemdi-2526\IIP1.01.Basis\ConsoleHalloWereld\bin\Debug\net8.0\HalloWereld.runtimeconfig.json
+C:\Users\lihem\OneDrive - ODISEE\Documents\School-2526\IIP-2526\IIP-IliasLihemdi-2526\IIP1.01.Basis\ConsoleHalloWereld\bin\Debug\net8.0\HalloWereld.dll
+C:\Users\lihem\OneDrive - ODISEE\Documents\School-2526\IIP-2526\IIP-IliasLihemdi-2526\IIP1.01.Basis\ConsoleHalloWereld\bin\Debug\net8.0\HalloWereld.pdb
+C:\Users\lihem\OneDrive - ODISEE\Documents\School-2526\IIP-2526\IIP-IliasLihemdi-2526\IIP1.01.Basis\ConsoleHalloWereld\obj\Debug\net8.0\HalloWereld.dll
+C:\Users\lihem\OneDrive - ODISEE\Documents\School-2526\IIP-2526\IIP-IliasLihemdi-2526\IIP1.01.Basis\ConsoleHalloWereld\obj\Debug\net8.0\refint\HalloWereld.dll
+C:\Users\lihem\OneDrive - ODISEE\Documents\School-2526\IIP-2526\IIP-IliasLihemdi-2526\IIP1.01.Basis\ConsoleHalloWereld\obj\Debug\net8.0\HalloWereld.pdb
+C:\Users\lihem\OneDrive - ODISEE\Documents\School-2526\IIP-2526\IIP-IliasLihemdi-2526\IIP1.01.Basis\ConsoleHalloWereld\obj\Debug\net8.0\HalloWereld.genruntimeconfig.cache
+C:\Users\lihem\OneDrive - ODISEE\Documents\School-2526\IIP-2526\IIP-IliasLihemdi-2526\IIP1.01.Basis\ConsoleHalloWereld\obj\Debug\net8.0\ref\HalloWereld.dll

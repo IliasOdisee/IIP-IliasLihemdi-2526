@@ -1,0 +1,15 @@
+C:\Users\lihem\OneDrive - ODISEE\Documents\School-2526\IIP-2526\IIP-IliasLihemdi-2526\IIP1.01.Basis\ConsoleLeeftijd\bin\Debug\net8.0\ConsoleLeeftijd.exe
+C:\Users\lihem\OneDrive - ODISEE\Documents\School-2526\IIP-2526\IIP-IliasLihemdi-2526\IIP1.01.Basis\ConsoleLeeftijd\bin\Debug\net8.0\ConsoleLeeftijd.deps.json
+C:\Users\lihem\OneDrive - ODISEE\Documents\School-2526\IIP-2526\IIP-IliasLihemdi-2526\IIP1.01.Basis\ConsoleLeeftijd\bin\Debug\net8.0\ConsoleLeeftijd.runtimeconfig.json
+C:\Users\lihem\OneDrive - ODISEE\Documents\School-2526\IIP-2526\IIP-IliasLihemdi-2526\IIP1.01.Basis\ConsoleLeeftijd\bin\Debug\net8.0\ConsoleLeeftijd.dll
+C:\Users\lihem\OneDrive - ODISEE\Documents\School-2526\IIP-2526\IIP-IliasLihemdi-2526\IIP1.01.Basis\ConsoleLeeftijd\bin\Debug\net8.0\ConsoleLeeftijd.pdb
+C:\Users\lihem\OneDrive - ODISEE\Documents\School-2526\IIP-2526\IIP-IliasLihemdi-2526\IIP1.01.Basis\ConsoleLeeftijd\obj\Debug\net8.0\ConsoleLeeftijd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lihem\OneDrive - ODISEE\Documents\School-2526\IIP-2526\IIP-IliasLihemdi-2526\IIP1.01.Basis\ConsoleLeeftijd\obj\Debug\net8.0\ConsoleLeeftijd.AssemblyInfoInputs.cache
+C:\Users\lihem\OneDrive - ODISEE\Documents\School-2526\IIP-2526\IIP-IliasLihemdi-2526\IIP1.01.Basis\ConsoleLeeftijd\obj\Debug\net8.0\ConsoleLeeftijd.AssemblyInfo.cs
+C:\Users\lihem\OneDrive - ODISEE\Documents\School-2526\IIP-2526\IIP-IliasLihemdi-2526\IIP1.01.Basis\ConsoleLeeftijd\obj\Debug\net8.0\ConsoleLeeftijd.csproj.CoreCompileInputs.cache
+C:\Users\lihem\OneDrive - ODISEE\Documents\School-2526\IIP-2526\IIP-IliasLihemdi-2526\IIP1.01.Basis\ConsoleLeeftijd\obj\Debug\net8.0\ConsoleLeeftijd.sourcelink.json
+C:\Users\lihem\OneDrive - ODISEE\Documents\School-2526\IIP-2526\IIP-IliasLihemdi-2526\IIP1.01.Basis\ConsoleLeeftijd\obj\Debug\net8.0\ConsoleLeeftijd.dll
+C:\Users\lihem\OneDrive - ODISEE\Documents\School-2526\IIP-2526\IIP-IliasLihemdi-2526\IIP1.01.Basis\ConsoleLeeftijd\obj\Debug\net8.0\refint\ConsoleLeeftijd.dll
+C:\Users\lihem\OneDrive - ODISEE\Documents\School-2526\IIP-2526\IIP-IliasLihemdi-2526\IIP1.01.Basis\ConsoleLeeftijd\obj\Debug\net8.0\ConsoleLeeftijd.pdb
+C:\Users\lihem\OneDrive - ODISEE\Documents\School-2526\IIP-2526\IIP-IliasLihemdi-2526\IIP1.01.Basis\ConsoleLeeftijd\obj\Debug\net8.0\ConsoleLeeftijd.genruntimeconfig.cache
+C:\Users\lihem\OneDrive - ODISEE\Documents\School-2526\IIP-2526\IIP-IliasLihemdi-2526\IIP1.01.Basis\ConsoleLeeftijd\obj\Debug\net8.0\ref\ConsoleLeeftijd.dll

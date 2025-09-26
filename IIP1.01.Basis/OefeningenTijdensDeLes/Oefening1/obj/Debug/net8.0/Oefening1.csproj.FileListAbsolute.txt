@@ -1,0 +1,15 @@
+C:\Users\lihem\OneDrive - ODISEE\Documents\School-2526\IIP-2526\IIP-IliasLihemdi-2526\IIP1.01.Basis\OefeningenTijdensDeLes\Oefening1\bin\Debug\net8.0\Oefening1.exe
+C:\Users\lihem\OneDrive - ODISEE\Documents\School-2526\IIP-2526\IIP-IliasLihemdi-2526\IIP1.01.Basis\OefeningenTijdensDeLes\Oefening1\bin\Debug\net8.0\Oefening1.deps.json
+C:\Users\lihem\OneDrive - ODISEE\Documents\School-2526\IIP-2526\IIP-IliasLihemdi-2526\IIP1.01.Basis\OefeningenTijdensDeLes\Oefening1\bin\Debug\net8.0\Oefening1.runtimeconfig.json
+C:\Users\lihem\OneDrive - ODISEE\Documents\School-2526\IIP-2526\IIP-IliasLihemdi-2526\IIP1.01.Basis\OefeningenTijdensDeLes\Oefening1\bin\Debug\net8.0\Oefening1.dll
+C:\Users\lihem\OneDrive - ODISEE\Documents\School-2526\IIP-2526\IIP-IliasLihemdi-2526\IIP1.01.Basis\OefeningenTijdensDeLes\Oefening1\bin\Debug\net8.0\Oefening1.pdb
+C:\Users\lihem\OneDrive - ODISEE\Documents\School-2526\IIP-2526\IIP-IliasLihemdi-2526\IIP1.01.Basis\OefeningenTijdensDeLes\Oefening1\obj\Debug\net8.0\Oefening1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lihem\OneDrive - ODISEE\Documents\School-2526\IIP-2526\IIP-IliasLihemdi-2526\IIP1.01.Basis\OefeningenTijdensDeLes\Oefening1\obj\Debug\net8.0\Oefening1.AssemblyInfoInputs.cache
+C:\Users\lihem\OneDrive - ODISEE\Documents\School-2526\IIP-2526\IIP-IliasLihemdi-2526\IIP1.01.Basis\OefeningenTijdensDeLes\Oefening1\obj\Debug\net8.0\Oefening1.AssemblyInfo.cs
+C:\Users\lihem\OneDrive - ODISEE\Documents\School-2526\IIP-2526\IIP-IliasLihemdi-2526\IIP1.01.Basis\OefeningenTijdensDeLes\Oefening1\obj\Debug\net8.0\Oefening1.csproj.CoreCompileInputs.cache
+C:\Users\lihem\OneDrive - ODISEE\Documents\School-2526\IIP-2526\IIP-IliasLihemdi-2526\IIP1.01.Basis\OefeningenTijdensDeLes\Oefening1\obj\Debug\net8.0\Oefening1.sourcelink.json
+C:\Users\lihem\OneDrive - ODISEE\Documents\School-2526\IIP-2526\IIP-IliasLihemdi-2526\IIP1.01.Basis\OefeningenTijdensDeLes\Oefening1\obj\Debug\net8.0\Oefening1.dll
+C:\Users\lihem\OneDrive - ODISEE\Documents\School-2526\IIP-2526\IIP-IliasLihemdi-2526\IIP1.01.Basis\OefeningenTijdensDeLes\Oefening1\obj\Debug\net8.0\refint\Oefening1.dll
+C:\Users\lihem\OneDrive - ODISEE\Documents\School-2526\IIP-2526\IIP-IliasLihemdi-2526\IIP1.01.Basis\OefeningenTijdensDeLes\Oefening1\obj\Debug\net8.0\Oefening1.pdb
+C:\Users\lihem\OneDrive - ODISEE\Documents\School-2526\IIP-2526\IIP-IliasLihemdi-2526\IIP1.01.Basis\OefeningenTijdensDeLes\Oefening1\obj\Debug\net8.0\Oefening1.genruntimeconfig.cache
+C:\Users\lihem\OneDrive - ODISEE\Documents\School-2526\IIP-2526\IIP-IliasLihemdi-2526\IIP1.01.Basis\OefeningenTijdensDeLes\Oefening1\obj\Debug\net8.0\ref\Oefening1.dll

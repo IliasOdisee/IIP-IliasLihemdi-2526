@@ -1,0 +1,15 @@
+C:\Users\lihem\OneDrive - ODISEE\Documents\School-2526\IIP-2526\IIP-IliasLihemdi-2526\IIP1.01.Basis\ConsoleGangsterName\obj\Debug\net8.0\GangsterName.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lihem\OneDrive - ODISEE\Documents\School-2526\IIP-2526\IIP-IliasLihemdi-2526\IIP1.01.Basis\ConsoleGangsterName\obj\Debug\net8.0\GangsterName.AssemblyInfoInputs.cache
+C:\Users\lihem\OneDrive - ODISEE\Documents\School-2526\IIP-2526\IIP-IliasLihemdi-2526\IIP1.01.Basis\ConsoleGangsterName\obj\Debug\net8.0\GangsterName.AssemblyInfo.cs
+C:\Users\lihem\OneDrive - ODISEE\Documents\School-2526\IIP-2526\IIP-IliasLihemdi-2526\IIP1.01.Basis\ConsoleGangsterName\obj\Debug\net8.0\GangsterName.csproj.CoreCompileInputs.cache
+C:\Users\lihem\OneDrive - ODISEE\Documents\School-2526\IIP-2526\IIP-IliasLihemdi-2526\IIP1.01.Basis\ConsoleGangsterName\obj\Debug\net8.0\GangsterName.sourcelink.json
+C:\Users\lihem\OneDrive - ODISEE\Documents\School-2526\IIP-2526\IIP-IliasLihemdi-2526\IIP1.01.Basis\ConsoleGangsterName\bin\Debug\net8.0\GangsterName.exe
+C:\Users\lihem\OneDrive - ODISEE\Documents\School-2526\IIP-2526\IIP-IliasLihemdi-2526\IIP1.01.Basis\ConsoleGangsterName\bin\Debug\net8.0\GangsterName.deps.json
+C:\Users\lihem\OneDrive - ODISEE\Documents\School-2526\IIP-2526\IIP-IliasLihemdi-2526\IIP1.01.Basis\ConsoleGangsterName\bin\Debug\net8.0\GangsterName.runtimeconfig.json
+C:\Users\lihem\OneDrive - ODISEE\Documents\School-2526\IIP-2526\IIP-IliasLihemdi-2526\IIP1.01.Basis\ConsoleGangsterName\bin\Debug\net8.0\GangsterName.dll
+C:\Users\lihem\OneDrive - ODISEE\Documents\School-2526\IIP-2526\IIP-IliasLihemdi-2526\IIP1.01.Basis\ConsoleGangsterName\bin\Debug\net8.0\GangsterName.pdb
+C:\Users\lihem\OneDrive - ODISEE\Documents\School-2526\IIP-2526\IIP-IliasLihemdi-2526\IIP1.01.Basis\ConsoleGangsterName\obj\Debug\net8.0\GangsterName.dll
+C:\Users\lihem\OneDrive - ODISEE\Documents\School-2526\IIP-2526\IIP-IliasLihemdi-2526\IIP1.01.Basis\ConsoleGangsterName\obj\Debug\net8.0\refint\GangsterName.dll
+C:\Users\lihem\OneDrive - ODISEE\Documents\School-2526\IIP-2526\IIP-IliasLihemdi-2526\IIP1.01.Basis\ConsoleGangsterName\obj\Debug\net8.0\GangsterName.pdb
+C:\Users\lihem\OneDrive - ODISEE\Documents\School-2526\IIP-2526\IIP-IliasLihemdi-2526\IIP1.01.Basis\ConsoleGangsterName\obj\Debug\net8.0\GangsterName.genruntimeconfig.cache
+C:\Users\lihem\OneDrive - ODISEE\Documents\School-2526\IIP-2526\IIP-IliasLihemdi-2526\IIP1.01.Basis\ConsoleGangsterName\obj\Debug\net8.0\ref\GangsterName.dll

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GangsterName")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5f800ccc62cca9ff35e328cb35a34163cb0b82a6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+656dd927e06f0562788393fb5e8547bf38bb0158")]
 [assembly: System.Reflection.AssemblyProductAttribute("GangsterName")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GangsterName")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
